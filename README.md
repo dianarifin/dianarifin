@@ -1,14 +1,38 @@
-# Hi, I'm Dian 👋
+# Hi there, I'm Dian👋
+### 💻 Full-Stack Web Developer | Next.js & Node.js Specialist
 
-I am a Full-Stack Web Developer specializing in the React/Next.js ecosystem, Node.js (Express), and TypeScript. I experience in building products from scratch, migrating legacy systems, and handling cloud infrastructure.
+I am a passionate Full-Stack Developer experienced in building, migrating, and scaling web applications from scratch. I specialize in Next.js, real-time databases, secure payment gateways, and cloud optimization.
 
-### 🛠️ Tech Stack
-Next.js | Express.js | TypeScript | PostgreSQL | Supabase | Prisma | Cloudflare | AWS S3
+---
 
-### 🚀 Highlighted Work
+## 🛠️ Tech Stack & Skills
+- **Frontend:** Next.js, React (Context), TypeScript, Tailwind CSS, TanStack Query
+- **Backend & DB:** Express.js, PostgreSQL, Supabase (Real-time), Prisma ORM
+- **Auth & Cloud:** BetterAuth, Auth.js, AWS S3, Cloudflare (Caching), VPS, Vercel
+- **Architecture:** Turborepo (Monorepo), Tiptap Editor
 
-* **Dianisa.com**: Migrated a WordPress blog to a Next.js monorepo (Turborepo) + PostgreSQL. Optimized 28k+ images via AWS S3 & Cloudflare caching. Handles **100k+ monthly pageviews**.
-* **Invinow.com**: Built a SaaS for digital wedding invitations using Next.js & Supabase (real-time). Integrated **Midtrans** payment gateway with advanced webhook handling.
-* **Blanktext.co**: Created a simple and fast web utility tool using Next.js.
+---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/dian-arifin/) | [Email](mailto:ngawidian@gmail.com)
+## 🚀 Featured Projects (As Owner & Solo Developer)
+
+### 🌐 Dianisa.com — Media & Blog Platform
+*Migrated high-traffic blog from WordPress to a custom Next.js full-stack architecture.*
+- 🏗️ Built a **Turborepo monorepo** to separate public site and admin panel.
+- 🔐 Implemented **BetterAuth** for RBAC (Admin, Editor, Writer, Contributor, Reader).
+- ⚡ Optimized **28k+ images on AWS S3** using Cloudflare caching with on-demand revalidation.
+- 📈 Self-hosted on a **VPS**, handling **100K+ monthly pageviews**.
+
+### 💍 Invinow.com — Digital Wedding Invitation SaaS
+*Mobile-friendly, freemium digital invitation platform with real-time editing.*
+- ⏱️ Used **Supabase & React Context** for live-preview customization without page reload.
+- 💳 Integrated **Midtrans payment gateway** with resilient webhook and failure handling.
+- 🔐 Managed freemium feature access control via **Auth.js**.
+- 🚀 Hosted media on **AWS S3** and deployed seamlessly on **Vercel**.
+
+### 🧰 Blanktext.co — Web Utility Tool
+- ⚡ Lightweight typography utility app built with **Next.js** and **Tailwind CSS**.
+
+---
+
+## 📫 Connect with Me
+🔗 [LinkedIn](https://linkedin.com/in/dianarifin) | ✉️ [Email](mailto:ngawidian@gmail.com)
