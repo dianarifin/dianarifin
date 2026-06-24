@@ -10,4 +10,4 @@ Next.js | Express.js | TypeScript | PostgreSQL | Supabase | Prisma | Cloudflare 
 * **Invinow.com**: Built a SaaS for digital wedding invitations using Next.js & Supabase (real-time). Integrated **Midtrans** payment gateway with advanced webhook handling.
 * **Blanktext.co**: Created a simple and fast web utility tool using Next.js.
 
-📫 **Connect:** [LinkedIn](your-link) | [Email](mailto:your-email@example.com)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/dian-arifin/) | [Email](mailto:ngawidian@gmail.com)
